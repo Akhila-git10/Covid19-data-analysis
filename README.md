@@ -16,7 +16,7 @@ The goal is to understand the spread of COVID-19 globally and gain insights usin
   - Pandas
   - Matplotlib
   - CSV files
-  - 
+    
 ## Dataset
 The dataset is stored in 'covid_data.csv'. 
 The cleaned dataset is stored in 'cleaned_covid_data.csv'
@@ -31,12 +31,12 @@ The cleaned dataset is stored in 'cleaned_covid_data.csv'
   - python data_clean.py
   - python data_visualization.py
   - python top_10_Countries.py
-  - 
+    
 ## Visualizations
 The script generated plots showing :
   - Global Confirmed COVID-19 Cases Over Time
   - Top 10 Countries with Highest Confirmed COVID-19 Cases
-  - 
+    
 ## Liscense
 This project is open-source and free to use for educational purposes.
 
